@@ -1,3 +1,5 @@
 # DesafioStone
-Construção de uma API REST em c# persistindo em mongoDB com testes feitos através do Xunit e POSTMAN.
+Construção de uma API REST em C# persistindo em mongoDB com testes feitos através do Xunit e POSTMAN.
 
+os testes feitos pelo POSTMAN e uma breve apresentação sobre o trabalho feito em powerpoint estão publicados
+na pasta Documents
