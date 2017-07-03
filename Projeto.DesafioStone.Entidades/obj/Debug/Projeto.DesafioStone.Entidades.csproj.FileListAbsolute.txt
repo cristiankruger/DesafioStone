@@ -1,0 +1,36 @@
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Bson.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.Core.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Bson.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.Core.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.csprojResolveAssemblyReference.cache
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Bson.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.Core.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Bson.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.Core.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.csprojResolveAssemblyReference.cache
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.dll.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Bson.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.Core.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Bson.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\bin\Debug\MongoDB.Driver.Core.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Entidades\obj\Debug\Projeto.DesafioStone.Entidades.pdb

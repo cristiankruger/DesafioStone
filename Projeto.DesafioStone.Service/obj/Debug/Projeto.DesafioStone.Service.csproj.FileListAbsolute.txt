@@ -1,0 +1,542 @@
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\csc.rsp
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\csi.rsp
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.AppContext.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Collections.Immutable.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Console.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.Process.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Compression.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Pipes.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Reflection.Metadata.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.AccessControl.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Claims.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Principal.Windows.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Threading.Thread.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.ValueTuple.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XmlDocument.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\vbc.rsp
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.pdb
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\XmlDocument.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Microsoft.Web.Infrastructure.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Http.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Razor.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.pdb
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.pdb
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Razor.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Http.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.csprojResolveAssemblyReference.cache
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.rsp
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.rsp
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.AppContext.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Collections.Immutable.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Console.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.Process.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Compression.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Pipes.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Reflection.Metadata.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.AccessControl.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Claims.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Principal.Windows.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Threading.Thread.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.ValueTuple.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XmlDocument.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.rsp
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\XmlDocument.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.Web.Infrastructure.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.csprojResolveAssemblyReference.cache
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.rsp
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.rsp
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.AppContext.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Collections.Immutable.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Console.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.Process.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Compression.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Pipes.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Reflection.Metadata.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.AccessControl.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Claims.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Principal.Windows.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Threading.Thread.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.ValueTuple.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XmlDocument.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.rsp
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\XmlDocument.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.Web.Infrastructure.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.csprojResolveAssemblyReference.cache
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.rsp
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.rsp
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.AppContext.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Console.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.Process.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Claims.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Threading.Thread.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.rsp
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\XmlDocument.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.csprojResolveAssemblyReference.cache
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.rsp
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.rsp
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.AppContext.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Collections.Immutable.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Console.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.Process.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Compression.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Pipes.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Reflection.Metadata.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.AccessControl.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Claims.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Principal.Windows.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Threading.Thread.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.ValueTuple.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XmlDocument.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.rsp
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\XmlDocument.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.Web.Infrastructure.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.csprojResolveAssemblyReference.cache
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.exe.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csc.rsp
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.exe.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\csi.rsp
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.AppContext.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Console.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.Process.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Compression.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.IO.Pipes.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.AccessControl.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Claims.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Threading.Thread.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.ValueTuple.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.exe.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\vbc.rsp
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Service.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\XmlDocument.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.Web.Infrastructure.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Entidades.dll.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Projeto.DesafioStone.Repository.dll.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Bson.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\MongoDB.Driver.Core.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\Newtonsoft.Json.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Helpers.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Mvc.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Razor.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Deployment.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.WebPages.Razor.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Net.Http.Formatting.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\bin\System.Web.Http.WebHost.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.csprojResolveAssemblyReference.cache
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Service\obj\Debug\Projeto.DesafioStone.Service.pdb

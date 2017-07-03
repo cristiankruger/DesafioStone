@@ -1,0 +1,868 @@
+{
+	"id": "600e1788-5878-43ba-a255-dc42ee9dd84a",
+	"name": "DesafioStone",
+	"allTests": [],
+	"timestamp": "2017-07-03T05:11:09.214Z",
+	"collection_id": "ed5b03f2-9541-9ea8-6387-34ceedcb44c5",
+	"folder_id": 0,
+	"target_type": "collection",
+	"environment_id": "no-environment",
+	"data": [],
+	"delay": 0,
+	"count": 1,
+	"collection": {
+		"id": "ed5b03f2-9541-9ea8-6387-34ceedcb44c5",
+		"name": "DesafioStone",
+		"description": "",
+		"order": [
+			"70003fc0-7b3d-c499-dab8-48f9e9372113",
+			"36fd64fe-3831-24b4-da30-9073eca9bccd",
+			"13c9867e-f928-4130-dc7a-b21571941d7c",
+			"35a4e26e-506a-7621-01f0-fe7d8a0b591e",
+			"90025e56-e82b-b4fd-cf91-98fc34b382b8",
+			"76506e9f-3a15-adbf-3982-ed32cebb7235",
+			"dcac3807-a6dd-3755-a98b-b81b5f03f6f5",
+			"d56a3ac1-1efa-413a-0da7-f5fb5b229089",
+			"91d30e5c-76fc-3eb4-b09c-84d45b351c93",
+			"ea7596d6-2396-4be5-4935-61c017cd8898",
+			"dae4384a-6e17-3c28-f1f9-5b727e84e00d",
+			"25cd6107-4458-22d0-83cd-89526a236128",
+			"87ee0c43-45d7-92f8-7057-e74b9333a74b",
+			"8f4299a8-c9ee-9d7e-2b77-eb3cf5fff2e6",
+			"f6bef85c-38b3-4b07-5334-4ecc5e5fdfaa",
+			"1f5ec7a9-b714-a26c-89e3-d8350b59fb8a",
+			"9eeca536-8789-094f-9e7b-220fef99d512",
+			"7c9bb256-8163-6340-c5f1-ba331e623387",
+			"ab5ac03f-02df-a200-c8a5-35092c9b7a2f",
+			"b5cc791b-d547-9e87-cb7e-d2df22cbad0b"
+		],
+		"folders": [],
+		"timestamp": 1499056011842,
+		"synced": false,
+		"remote_id": 0,
+		"owner": "2285611",
+		"subscribed": false,
+		"remoteLink": "",
+		"remoteLinkUpdatedAt": null,
+		"public": false,
+		"createdAt": 1499056011871,
+		"updatedAt": 1499057117789,
+		"write": true,
+		"published": false,
+		"favorite": false,
+		"permissions": {},
+		"syncedPermissions": {}
+	},
+	"folder": null,
+	"environment": null,
+	"globals": [],
+	"results": [
+		{
+			"name": "http://localhost:60189/api/ativo/cadastrar",
+			"id": "70003fc0-7b3d-c499-dab8-48f9e9372113",
+			"url": "http://localhost:60189/api/ativo/cadastrar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"14"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "14",
+			"totalRequestTime": "14",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/consultartodos",
+			"id": "36fd64fe-3831-24b4-da30-9073eca9bccd",
+			"url": "http://localhost:60189/api/ativo/consultartodos",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"7"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "7",
+			"totalRequestTime": "7",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/consultarporid?id=595964e0718269108c00df2d",
+			"id": "13c9867e-f928-4130-dc7a-b21571941d7c",
+			"url": "http://localhost:60189/api/ativo/consultarporid?id=5959c6a37182692fc8a873b0",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"7"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "7",
+			"totalRequestTime": "7",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/consultarporid?id=595964e0718269108c00df2d copy",
+			"id": "35a4e26e-506a-7621-01f0-fe7d8a0b591e",
+			"url": "http://localhost:60189/api/ativo/consultarporid?id=5959c6a37182692fc8a873d3",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"6"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "6",
+			"totalRequestTime": "6",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/editar",
+			"id": "90025e56-e82b-b4fd-cf91-98fc34b382b8",
+			"url": "http://localhost:60189/api/ativo/editar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"14"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "14",
+			"totalRequestTime": "14",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/editar copy",
+			"id": "76506e9f-3a15-adbf-3982-ed32cebb7235",
+			"url": "http://localhost:60189/api/ativo/editar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"11"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "11",
+			"totalRequestTime": "11",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/deletar?id=59559c32718269202cb9e235",
+			"id": "dcac3807-a6dd-3755-a98b-b81b5f03f6f5",
+			"url": "http://localhost:60189/api/ativo/deletar?id=5959705b7182692fb4ab0506",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"6"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "6",
+			"totalRequestTime": "6",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/deletar?id=59559c32718269202cb9e235 copy",
+			"id": "d56a3ac1-1efa-413a-0da7-f5fb5b229089",
+			"url": "http://localhost:60189/api/ativo/deletar?id=59555cb57182692ae05e9999",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"5"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "5",
+			"totalRequestTime": "5",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"id": "91d30e5c-76fc-3eb4-b09c-84d45b351c93",
+			"url": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"10"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "10",
+			"totalRequestTime": "10",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/imobilizar copy",
+			"id": "ea7596d6-2396-4be5-4935-61c017cd8898",
+			"url": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"8"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "8",
+			"totalRequestTime": "8",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/imobilizar copy copy",
+			"id": "dae4384a-6e17-3c28-f1f9-5b727e84e00d",
+			"url": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"7"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "7",
+			"totalRequestTime": "7",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultarimobilizados",
+			"id": "25cd6107-4458-22d0-83cd-89526a236128",
+			"url": "http://localhost:60189/api/itemimobilizado/consultarimobilizados",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"8"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "8",
+			"totalRequestTime": "8",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultardesmobilizados",
+			"id": "87ee0c43-45d7-92f8-7057-e74b9333a74b",
+			"url": "http://localhost:60189/api/itemimobilizado/consultardesmobilizados",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"11"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "11",
+			"totalRequestTime": "11",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1ba4",
+			"id": "8f4299a8-c9ee-9d7e-2b77-eb3cf5fff2e6",
+			"url": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1ba4",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"5"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "5",
+			"totalRequestTime": "5",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1ba4 copy",
+			"id": "f6bef85c-38b3-4b07-5334-4ecc5e5fdfaa",
+			"url": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1999",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"6"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "6",
+			"totalRequestTime": "6",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/editar copy",
+			"id": "1f5ec7a9-b714-a26c-89e3-d8350b59fb8a",
+			"url": "http://localhost:60189/api/itemimobilizado/editar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"9"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "9",
+			"totalRequestTime": "9",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/editar copy copy",
+			"id": "9eeca536-8789-094f-9e7b-220fef99d512",
+			"url": "http://localhost:60189/api/itemimobilizado/editar",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"7"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "7",
+			"totalRequestTime": "7",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a873ad",
+			"id": "7c9bb256-8163-6340-c5f1-ba331e623387",
+			"url": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959cbe7718269075cf51e59",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"8"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "8",
+			"totalRequestTime": "8",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a873ad copy",
+			"id": "ab5ac03f-02df-a200-c8a5-35092c9b7a2f",
+			"url": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959cbe7718269075cf51e59",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"6"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "6",
+			"totalRequestTime": "6",
+			"iterationResults": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a873ad copy copy",
+			"id": "b5cc791b-d547-9e87-cb7e-d2df22cbad0b",
+			"url": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a87999",
+			"totalTime": 0,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				"5"
+			],
+			"allTests": [
+				{}
+			],
+			"time": "5",
+			"totalRequestTime": "5",
+			"iterationResults": {}
+		}
+	],
+	"totalPass": 0,
+	"totalFail": 0,
+	"totalTime": 160,
+	"lifecycle": "done",
+	"requests": [
+		{
+			"name": "http://localhost:60189/api/ativo/cadastrar",
+			"id": "70003fc0-7b3d-c499-dab8-48f9e9372113",
+			"url": "http://localhost:60189/api/ativo/cadastrar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/consultartodos",
+			"id": "36fd64fe-3831-24b4-da30-9073eca9bccd",
+			"url": "http://localhost:60189/api/ativo/consultartodos",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/consultarporid?id=595964e0718269108c00df2d",
+			"id": "13c9867e-f928-4130-dc7a-b21571941d7c",
+			"url": "http://localhost:60189/api/ativo/consultarporid?id=5959c6a37182692fc8a873b0",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/consultarporid?id=595964e0718269108c00df2d copy",
+			"id": "35a4e26e-506a-7621-01f0-fe7d8a0b591e",
+			"url": "http://localhost:60189/api/ativo/consultarporid?id=5959c6a37182692fc8a873d3",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/editar",
+			"id": "90025e56-e82b-b4fd-cf91-98fc34b382b8",
+			"url": "http://localhost:60189/api/ativo/editar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/editar copy",
+			"id": "76506e9f-3a15-adbf-3982-ed32cebb7235",
+			"url": "http://localhost:60189/api/ativo/editar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/deletar?id=59559c32718269202cb9e235",
+			"id": "dcac3807-a6dd-3755-a98b-b81b5f03f6f5",
+			"url": "http://localhost:60189/api/ativo/deletar?id=5959705b7182692fb4ab0506",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/ativo/deletar?id=59559c32718269202cb9e235 copy",
+			"id": "d56a3ac1-1efa-413a-0da7-f5fb5b229089",
+			"url": "http://localhost:60189/api/ativo/deletar?id=59555cb57182692ae05e9999",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"id": "91d30e5c-76fc-3eb4-b09c-84d45b351c93",
+			"url": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/imobilizar copy",
+			"id": "ea7596d6-2396-4be5-4935-61c017cd8898",
+			"url": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/imobilizar copy copy",
+			"id": "dae4384a-6e17-3c28-f1f9-5b727e84e00d",
+			"url": "http://localhost:60189/api/itemimobilizado/imobilizar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultarimobilizados",
+			"id": "25cd6107-4458-22d0-83cd-89526a236128",
+			"url": "http://localhost:60189/api/itemimobilizado/consultarimobilizados",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultardesmobilizados",
+			"id": "87ee0c43-45d7-92f8-7057-e74b9333a74b",
+			"url": "http://localhost:60189/api/itemimobilizado/consultardesmobilizados",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1ba4",
+			"id": "8f4299a8-c9ee-9d7e-2b77-eb3cf5fff2e6",
+			"url": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1ba4",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1ba4 copy",
+			"id": "f6bef85c-38b3-4b07-5334-4ecc5e5fdfaa",
+			"url": "http://localhost:60189/api/itemimobilizado/consultarporid?idAtivo=59596a00718269220c0e1999",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/editar copy",
+			"id": "1f5ec7a9-b714-a26c-89e3-d8350b59fb8a",
+			"url": "http://localhost:60189/api/itemimobilizado/editar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/editar copy copy",
+			"id": "9eeca536-8789-094f-9e7b-220fef99d512",
+			"url": "http://localhost:60189/api/itemimobilizado/editar",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a873ad",
+			"id": "7c9bb256-8163-6340-c5f1-ba331e623387",
+			"url": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959cbe7718269075cf51e59",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 200,
+				"name": "OK",
+				"detail": {
+					"name": "OK",
+					"detail": "Standard response for successful HTTP requests. The actual response will depend on the request method used. In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request the response will contain an entity describing or containing the result of the action."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a873ad copy",
+			"id": "ab5ac03f-02df-a200-c8a5-35092c9b7a2f",
+			"url": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959cbe7718269075cf51e59",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 403,
+				"name": "Forbidden",
+				"detail": {
+					"name": "Forbidden",
+					"detail": "The request was a legal request, but the server is refusing to respond to it. Unlike a 401 Unauthorized response, authenticating will make no difference."
+				}
+			},
+			"testPassFailCounts": {}
+		},
+		{
+			"name": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a873ad copy copy",
+			"id": "b5cc791b-d547-9e87-cb7e-d2df22cbad0b",
+			"url": "http://localhost:60189/api/itemimobilizado/liberar?idAtivo=5959c1887182692fc8a87999",
+			"time": "2017-07-03T05:11:09.214Z",
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found",
+				"detail": {
+					"name": "Not Found",
+					"detail": "The requested resource could not be found but may be available again in the future. Subsequent requests by the client are permissible."
+				}
+			},
+			"testPassFailCounts": {}
+		}
+	],
+	"synced": false
+}

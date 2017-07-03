@@ -1,0 +1,92 @@
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll.config
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.pdb
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.xml
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.csprojResolveAssemblyReference.cache
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.dll
+G:\000.Processo Stone\stone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll.config
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.xml
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.csprojResolveAssemblyReference.cache
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.dll
+F:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll.config
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.xml
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.csprojResolveAssemblyReference.cache
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.dll
+G:\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll.config
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.xml
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.csprojResolveAssemblyReference.cache
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.dll
+D:\Projetos\000.Processo Stone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll.config
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.xml
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.csprojResolveAssemblyReference.cache
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.dll
+G:\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Repository.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.pdb
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\Projeto.DesafioStone.Entidades.dll.config
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Bson.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\bin\Debug\MongoDB.Driver.Core.xml
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.csprojResolveAssemblyReference.cache
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.dll
+D:\Projetos\DesafioStone\Projeto.DesafioStone\Projeto.DesafioStone.Repository\obj\Debug\Projeto.DesafioStone.Repository.pdb
